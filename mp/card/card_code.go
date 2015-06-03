@@ -6,7 +6,7 @@
 package card
 
 import (
-	"github.com/chanxuehong/wechat/mp"
+	"github.com/xinhuang327/wechat/mp"
 )
 
 // 卡券核销, 消耗code

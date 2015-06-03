@@ -6,7 +6,7 @@
 package tools
 
 import (
-	"github.com/chanxuehong/wechat/mch"
+	"github.com/xinhuang327/wechat/mch"
 )
 
 // 转换短链接.

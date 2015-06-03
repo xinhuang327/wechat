@@ -17,7 +17,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/chanxuehong/wechat/corp"
+	"github.com/xinhuang327/wechat/corp"
 )
 
 // suite_access_token 中控服务器接口.

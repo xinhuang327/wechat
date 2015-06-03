@@ -13,8 +13,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/chanxuehong/wechat/corp"
-	"github.com/chanxuehong/wechat/corp/menu"
+	"github.com/xinhuang327/wechat/corp"
+	"github.com/xinhuang327/wechat/corp/menu"
 )
 
 var AccessTokenServer = corp.NewDefaultAccessTokenServer("corpId", "corpSecret", nil) // 一個應用只能有一個實例
@@ -49,10 +49,10 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/chanxuehong/wechat/corp"
-	"github.com/chanxuehong/wechat/corp/message/request"
-	"github.com/chanxuehong/wechat/corp/message/response"
-	"github.com/chanxuehong/wechat/util"
+	"github.com/xinhuang327/wechat/corp"
+	"github.com/xinhuang327/wechat/corp/message/request"
+	"github.com/xinhuang327/wechat/corp/message/response"
+	"github.com/xinhuang327/wechat/util"
 )
 
 // 非法请求的 Handler
@@ -98,10 +98,10 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/chanxuehong/wechat/corp"
-	"github.com/chanxuehong/wechat/corp/message/request"
-	"github.com/chanxuehong/wechat/corp/message/response"
-	"github.com/chanxuehong/wechat/util"
+	"github.com/xinhuang327/wechat/corp"
+	"github.com/xinhuang327/wechat/corp/message/request"
+	"github.com/xinhuang327/wechat/corp/message/response"
+	"github.com/xinhuang327/wechat/util"
 )
 
 // 非法请求的 Handler

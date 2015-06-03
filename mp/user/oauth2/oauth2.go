@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/chanxuehong/wechat/mp"
+	"github.com/xinhuang327/wechat/mp"
 )
 
 // 构造请求用户授权获取code的地址.

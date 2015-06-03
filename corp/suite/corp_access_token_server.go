@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/chanxuehong/wechat/corp"
+	"github.com/xinhuang327/wechat/corp"
 )
 
 var _ corp.AccessTokenServer = (*CorpAccessTokenServer)(nil)

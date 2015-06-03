@@ -8,7 +8,7 @@ package suite
 import (
 	"errors"
 
-	"github.com/chanxuehong/wechat/corp"
+	"github.com/xinhuang327/wechat/corp"
 )
 
 type SetAgentParameters struct {

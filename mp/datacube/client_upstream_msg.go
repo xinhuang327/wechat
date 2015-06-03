@@ -8,7 +8,7 @@ package datacube
 import (
 	"errors"
 
-	"github.com/chanxuehong/wechat/mp"
+	"github.com/xinhuang327/wechat/mp"
 )
 
 // 消息发送概况数据

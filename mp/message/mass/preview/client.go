@@ -9,8 +9,8 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/chanxuehong/wechat/mp"
-	"github.com/chanxuehong/wechat/mp/message/mass/internal"
+	"github.com/xinhuang327/wechat/mp"
+	"github.com/xinhuang327/wechat/mp/message/mass/internal"
 )
 
 type Client struct {

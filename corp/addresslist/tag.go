@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/chanxuehong/wechat/corp"
+	"github.com/xinhuang327/wechat/corp"
 )
 
 // 创建标签

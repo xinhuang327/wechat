@@ -7,7 +7,7 @@ package component
 
 import (
 	"encoding/json"
-	"github.com/chanxuehong/wechat/mp"
+	"github.com/xinhuang327/wechat/mp"
 )
 
 // 获取授权方的选项设置信息.

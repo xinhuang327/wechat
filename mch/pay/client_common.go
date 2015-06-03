@@ -13,7 +13,7 @@ import (
 	"net/http"
 
 	"github.com/chanxuehong/util"
-	"github.com/chanxuehong/wechat/mch"
+	"github.com/xinhuang327/wechat/mch"
 )
 
 // 统一下单.

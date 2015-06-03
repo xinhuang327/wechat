@@ -8,7 +8,7 @@ package dkf
 import (
 	"errors"
 
-	"github.com/chanxuehong/wechat/mp"
+	"github.com/xinhuang327/wechat/mp"
 )
 
 // 一条聊天记录

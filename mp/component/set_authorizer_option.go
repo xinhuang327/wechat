@@ -6,7 +6,7 @@
 package component
 
 import (
-	"github.com/chanxuehong/wechat/mp"
+	"github.com/xinhuang327/wechat/mp"
 )
 
 // 设置授权方的选项信息.

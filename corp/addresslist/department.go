@@ -9,7 +9,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/chanxuehong/wechat/corp"
+	"github.com/xinhuang327/wechat/corp"
 )
 
 // 创建部门参数

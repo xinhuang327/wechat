@@ -6,7 +6,7 @@
 package pay
 
 import (
-	"github.com/chanxuehong/wechat/mch"
+	"github.com/xinhuang327/wechat/mch"
 )
 
 // 提交被扫支付.

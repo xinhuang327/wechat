@@ -8,7 +8,7 @@ package addresslist
 import (
 	"net/url"
 
-	"github.com/chanxuehong/wechat/corp"
+	"github.com/xinhuang327/wechat/corp"
 )
 
 // 二次验证

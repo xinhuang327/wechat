@@ -8,8 +8,8 @@ package internal
 import (
 	"net/http"
 
-	"github.com/chanxuehong/wechat/mp"
-	"github.com/chanxuehong/wechat/mp/message/mass"
+	"github.com/xinhuang327/wechat/mp"
+	"github.com/xinhuang327/wechat/mp/message/mass"
 )
 
 type Client struct {

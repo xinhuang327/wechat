@@ -19,7 +19,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/chanxuehong/wechat/util"
+	"github.com/xinhuang327/wechat/util"
 )
 
 // 安全模式, 微信服务器推送过来的 http body

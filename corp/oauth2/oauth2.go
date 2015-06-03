@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/chanxuehong/wechat/corp"
+	"github.com/xinhuang327/wechat/corp"
 )
 
 // 构造获取code的URL.

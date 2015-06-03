@@ -19,8 +19,8 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/chanxuehong/wechat/mp"
-	"github.com/chanxuehong/wechat/util"
+	"github.com/xinhuang327/wechat/mp"
+	"github.com/xinhuang327/wechat/util"
 )
 
 // 微信服务器请求 http body

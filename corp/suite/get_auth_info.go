@@ -6,7 +6,7 @@
 package suite
 
 import (
-	"github.com/chanxuehong/wechat/corp"
+	"github.com/xinhuang327/wechat/corp"
 )
 
 // 获取企业号的授权信息

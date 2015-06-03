@@ -6,7 +6,7 @@
 package payutil
 
 import (
-	"github.com/chanxuehong/wechat/mch"
+	"github.com/xinhuang327/wechat/mch"
 )
 
 // 测速上报.

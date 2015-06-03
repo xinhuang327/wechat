@@ -13,8 +13,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/chanxuehong/wechat/mp"
-	"github.com/chanxuehong/wechat/mp/menu"
+	"github.com/xinhuang327/wechat/mp"
+	"github.com/xinhuang327/wechat/mp/menu"
 )
 
 var AccessTokenServer = mp.NewDefaultAccessTokenServer("appId", "appSecret", nil) // 一個應用只能有一個實例
@@ -49,10 +49,10 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/chanxuehong/wechat/mp"
-	"github.com/chanxuehong/wechat/mp/message/request"
-	"github.com/chanxuehong/wechat/mp/message/response"
-	"github.com/chanxuehong/wechat/util"
+	"github.com/xinhuang327/wechat/mp"
+	"github.com/xinhuang327/wechat/mp/message/request"
+	"github.com/xinhuang327/wechat/mp/message/response"
+	"github.com/xinhuang327/wechat/util"
 )
 
 // 非法请求的 Handler
@@ -99,10 +99,10 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/chanxuehong/wechat/mp"
-	"github.com/chanxuehong/wechat/mp/message/request"
-	"github.com/chanxuehong/wechat/mp/message/response"
-	"github.com/chanxuehong/wechat/util"
+	"github.com/xinhuang327/wechat/mp"
+	"github.com/xinhuang327/wechat/mp/message/request"
+	"github.com/xinhuang327/wechat/mp/message/response"
+	"github.com/xinhuang327/wechat/util"
 )
 
 // 非法请求处理函数

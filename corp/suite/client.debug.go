@@ -16,7 +16,7 @@ import (
 	"net/url"
 	"reflect"
 
-	"github.com/chanxuehong/wechat/corp"
+	"github.com/xinhuang327/wechat/corp"
 )
 
 type Client struct {

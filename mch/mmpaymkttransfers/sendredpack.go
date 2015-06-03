@@ -6,7 +6,7 @@
 package mmpaymkttransfers
 
 import (
-	"github.com/chanxuehong/wechat/mch"
+	"github.com/xinhuang327/wechat/mch"
 )
 
 // 红包发放.

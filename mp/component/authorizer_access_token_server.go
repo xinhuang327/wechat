@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/chanxuehong/wechat/mp"
+	"github.com/xinhuang327/wechat/mp"
 )
 
 var _ mp.AccessTokenServer = (*AuthorizerAccessTokenServer)(nil)
